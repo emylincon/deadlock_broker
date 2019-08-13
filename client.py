@@ -9,7 +9,7 @@ print('-----------------------------------')
 username = 'mec'
 password = 'password'
 broker_ip = input("Broker's IP: ").strip()
-broker_port_no = '1883'
+broker_port_no = 1883
 topic = 'mec'
 print('-----------------------------------')
 
